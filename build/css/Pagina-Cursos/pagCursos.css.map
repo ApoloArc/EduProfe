@@ -1,0 +1,1 @@
+{"version":3,"sources":["Pagina-Cursos/pagCursos.scss","Pagina-Cursos/pagCursos.css"],"names":[],"mappings":"AAAA,OAEI,YAAA,CADA,UCEJ","file":"pagCursos.css","sourcesContent":[".title{\r\n    width: 100%;\r\n    height: 10rem;\r\n}",".title {\n  width: 100%;\n  height: 10rem;\n}"]}
