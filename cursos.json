@@ -1,0 +1,28 @@
+{
+    "cursosMobile":[
+        {
+            "Nombre": "Zoom",
+            "Nivel": "Intermedio",
+            "Duración": "Larga",
+            "Img": "../img/cursos/1/mobile.jpg"
+        }, 
+        {
+            "Nombre": "Meet",
+            "Nivel": "Intermedio",
+            "Duración": "Media",
+            "Img": "../img/cursos/2/mobile.jpg"
+        }, 
+        {
+            "Nombre": "Kahoot",
+            "Nivel": "Fácil",
+            "Duración": "Corta",
+            "Img": "../img/cursos/3/mobile.jpg"
+        }, 
+        {
+            "Nombre": "Canva",
+            "Nivel": "Intermedio",
+            "Duración": "Medio",
+            "Img": "../img/cursos/4/mobile.jpg"
+        }
+    ]
+}
